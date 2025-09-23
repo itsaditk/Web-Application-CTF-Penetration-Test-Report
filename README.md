@@ -1,7 +1,5 @@
 # Web-Application-CTF-Penetration-Test-Report
 
-# Web Application CTF Penetration Test Report
-
 ## Executive Summary
 
 This report documents a comprehensive penetration test of a web application CTF challenge that resulted in complete system compromise through a chain of critical vulnerabilities. The assessment successfully exploited SQL injection, Server-Side Template Injection (SSTI), and system misconfiguration to achieve full root access.
